@@ -1,6 +1,6 @@
 build:
 	rm -rf build
-	rm -rf dukaonesdk-extend.egg-info
+	rm -rf dukasmartfan_api.egg-info
 	rm -rf dist
 	python setup.py sdist bdist_wheel
 

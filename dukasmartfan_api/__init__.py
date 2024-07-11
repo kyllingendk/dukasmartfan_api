@@ -1,5 +1,5 @@
 """
-Duka One SDK
+Duka SmartFan API
 
 This is a Python module for making a connection to a Duka smart fans
 
